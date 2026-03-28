@@ -1,0 +1,5 @@
+Windows:
+python -m pip install Appium-Python-Client
+ 
+VDIUczelni:
+C: \Users\student-wroclaw\AppData\Local\Python\pythoncore-3.14-64\python -m pip install Appium-Python-Client
